@@ -1,7 +1,7 @@
 ###### Flappy Unicorn
 Created this project to show my kids how to create a game really quickly.
 
-![Screenshot](screenshot_url)
+![Screenshot](https://github.com/ObjSal/Flappy-Unicorn/raw/master/screenshot.png)
 
 To be fun it is missing the following elements:
 * Main Menu
